@@ -13,12 +13,18 @@
     },
     {
         "device_id": "a6a15e1e64275a8d",
-        "key": "1432",
+        "key": "1234",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "6fecd95120e66f87",
+        "device_id": "b148b2bf3d0baf50",
+        "key": "9595",
+        "expirydate": "15-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "4d41f34c404d7661",
         "key": "9595",
         "expirydate": "15-12-2026",
         "Allowoffline": true
