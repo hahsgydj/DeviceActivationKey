@@ -3,72 +3,72 @@
         "device_id": "4dd58e9c4aef0a29",
         "key": "0025",
         "expirydate": "29-10-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "ed046e4895cf0cb9",
         "key": "0086",
         "expirydate": "30-10-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "2e04059f85712e38",
         "key": "0042",
         "expirydate": "30-10-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "28b9c179965ad01e",
         "key": "0025",
         "expirydate": "30-10-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "a5a730192cf900c2",
         "key": "5025",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "ce63a0cbc59cb3bf",
         "key": "5489",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "0986294d43ca83b9",
         "key": "8568",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "7f784d4beed34b0b",
         "key": "9581",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "13ce84efe24ad031",
         "key": "9585",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "696530ac2df0dc3a",
         "key": "2675",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "a8231144691041f9",
         "key": "4359",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "d1e3d0f4317ff7d3",
         "key": "4989",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
 ]
