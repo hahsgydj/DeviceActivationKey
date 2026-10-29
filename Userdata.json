@@ -77,4 +77,10 @@
         "expirydate": "28-11-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "a5a730192cf900c2",
+        "key": "0854",
+        "expirydate": "28-11-2026",
+        "Allowoffline": false
+    },
 ]
